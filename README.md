@@ -27,3 +27,7 @@
 ## Next
 - Add flags: keep/remove emojis, custom regex
 - Add a 90s demo video and pin this repo
+
+## Flags
+- `--keep-emoji`: keep emojis (default removes)
+- `--keep-punct`: keep punctuation (default removes)
